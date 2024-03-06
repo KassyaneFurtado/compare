@@ -7,18 +7,20 @@
 <h5> Além disso, você precisará da biblioteca Pandas. Instale-a pelo terminal utilizando o seguinte comando: </h5>
 <ul>
 <li> pip install pandas </li>
-
+</ul>
 <h2> Uso </h2>
 
 <ol>
-
-<li> Clone ou baixe o repositório para o seu computador. </li>
+  
+<li>Clone ou baixe o repositório para o seu computador. </li>
 <li> Certifique-se de ter duas planilhas e de ajustar os nomes e extensão dos arquivos conforme necessário no script.</li>
 <li>Execute o script.</li>
+  
+</ol>
 O script lerá as duas planilhas, imprimirá seus conteúdos no console, comparará as colunas especificadas como comuns e gerará uma terceira planilha com o resultado da comparação.
 
 <h2>Notas adicionais</h2>
 <ul>
 <li>As planilhas de entrada devem ter uma coluna com o cabeçalho em comum.</li>
-
+</ul>
 
